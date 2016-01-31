@@ -110,7 +110,7 @@ a {
 /* -------------------------------------- */
 
 header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url(../images/mac1.gif);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url(https://s3-us-west-1.amazonaws.com/allen.projects/mac1.gif);
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
@@ -187,7 +187,7 @@ header {
 /* -------------------------------------- */
 
 .about {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/officea.gif);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://s3-us-west-1.amazonaws.com/allen.projects/officea.gif);
   background-size: cover;
   background-attachment: fixed;
 /*  background-position: center; */
@@ -227,7 +227,7 @@ p {
 /* -------------------------------------- */
 
 .portfolio {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)), url(../images/bgg1.gif);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)), url(https://s3-us-west-1.amazonaws.com/allen.projects/bgg1.gif);
   background-size: cover;
   background-attachment: fixed;
 /*  background-position: center; */
@@ -270,7 +270,7 @@ p {
 /* -------------------------------------- */
 
 .contact {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/laptop1.gif);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://s3-us-west-1.amazonaws.com/allen.projects/laptop1.gif);
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
